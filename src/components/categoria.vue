@@ -95,7 +95,7 @@ export default {
 .drawer-left {
   position: fixed;
   top: 0;
-  left: -300px;
+  left: -320px;
   width: 280px;
   height: 100%;
   background-color: #420000;
